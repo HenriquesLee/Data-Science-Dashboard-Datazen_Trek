@@ -45,8 +45,7 @@ Make sure you have Python 3.x installed on your system.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your_username/ai-powered-datascience-dashboard.git
-cd ai-powered-datascience-dashboard
+git clone https://github.com/HenriquesLee/Data-Science-Dashboard-Datazen_Trek.git
 ```
 
 ### Install Dependencies
