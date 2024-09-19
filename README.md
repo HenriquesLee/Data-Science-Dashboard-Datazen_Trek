@@ -1,8 +1,8 @@
 # Interactive Data Science Dashboard
 
-Welcome to the **Interactive Data Science Dashboard** – a Streamlit-based interactive platform that allows users to explore datasets, visualize correlations, and train machine learning models (currently featuring linear regression).
+Welcome to the **Interactive Data Science Dashboard** – a Streamlit-based platform that allows users to explore datasets, visualize correlations and perform Linear Regreession.
 
-This project was developed as part of the **Datazen Trek Project by me,Lee Henriques**.
+This project was developed as part of the **Datazen Trek Project by me, Lee Henriques**.
 
 ## Table of Contents
 
@@ -21,6 +21,14 @@ This dashboard is designed for interactive data analysis and machine learning ta
 - Visualize data with heatmaps, pair plots, and regression plots
 - Build and evaluate multiple machine learning models (including linear and multiple regression)
 
+### Screenshots
+
+#### Desktop View
+![Desktop View](path_to_desktop_screenshot)
+
+#### Mobile View
+![Mobile View](path_to_mobile_screenshot)
+
 ## Features
 
 - **Interactive Data Exploration**: Upload and explore datasets with interactive visualizations, including correlation matrices and pair plots.
@@ -29,13 +37,12 @@ This dashboard is designed for interactive data analysis and machine learning ta
   
 - **Data Cleaning**: Automatically cleans the dataset, handling missing values and preparing the data for analysis.
   
-- **Responsive UI**: The dashboard is built with a responsive design, ensuring smooth user experience on devices of various screen sizes.
+- **Responsive UI**: The dashboard is fully responsive, ensuring smooth user experience on devices of various screen sizes.
   
 - **Custom Visualizations**: Visualize regression lines and residuals to understand model fit, with options to plot residuals for multiple regression features.
   
 - **No-Code Interface**: Designed for non-technical users to run advanced data analysis without writing code.
 
- 
 ## Installation
 
 To run this project locally, follow these steps:
@@ -92,6 +99,11 @@ The main libraries used include:
 │   ├── data_utils.py          # Functions for data loading and cleaning
 │   ├── visualization_utils.py # Functions for visualizations
 │   ├── model_utils.py         # Functions for training and evaluating models
+├── pages                      # Pages apart from app.py
+│   ├── 1_about.py         
+│   ├── 2_license.py 
+│   ├── 3_cool_features.py
+│   ├── 4_connection_links.py
 ├── requirements.txt           # List of required Python packages
 └── README.md                  # Project documentation
 ```
