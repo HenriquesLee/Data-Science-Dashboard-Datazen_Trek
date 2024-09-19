@@ -21,14 +21,6 @@ This dashboard is designed for interactive data analysis and machine learning ta
 - Visualize data with heatmaps, pair plots, and regression plots
 - Build and evaluate multiple machine learning models (including linear and multiple regression)
 
-### Screenshots
-
-#### Desktop View
-![Desktop View](path_to_desktop_screenshot)
-
-#### Mobile View
-![Mobile View](path_to_mobile_screenshot)
-
 ## Features
 
 - **Interactive Data Exploration**: Upload and explore datasets with interactive visualizations, including correlation matrices and pair plots.
