@@ -21,6 +21,26 @@ This dashboard is designed for interactive data analysis and machine learning ta
 - Visualize data with heatmaps, pair plots, and regression plots
 - Build and evaluate multiple machine learning models (including linear and multiple regression)
 
+## Screenshots
+
+Here are a few screenshots showcasing the **Interactive Data Science Dashboard** on both desktop and mobile devices.
+
+### Desktop View
+<img src="https://github.com/user-attachments/assets/56e854a0-e10b-4575-8bf1-c26529d9c669" alt="Desktop view" width="600"/>
+<img src="https://github.com/user-attachments/assets/11e984a5-86ad-4553-8043-ebd6d5291dd4" alt="Desktop view" width="600"/>
+<img src="https://github.com/user-attachments/assets/d760d641-14af-4cc5-a82e-09ffae9e7f88" alt="Desktop view" width="600"/>
+<img src="https://github.com/user-attachments/assets/3638fbc2-5e80-4c0f-8bcd-65c001ef1c44" alt="Desktop view" width="600"/>
+
+
+### Mobile View 
+
+<img src= "https://github.com/user-attachments/assets/a9281d79-b261-4cf1-86c5-a7fa37addd0f" alt="Mobile view" width="300"/>
+
+<img src= "https://github.com/user-attachments/assets/def7da7f-f9e3-45be-b788-dffc20c9f50c" alt="Mobile view" width="300"/>
+
+<img src= "https://github.com/user-attachments/assets/b73dceee-e2a1-4861-94ea-c68e4087d6dc" alt="Mobile view" width="300"/>
+
+
 ## Features
 
 - **Interactive Data Exploration**: Upload and explore datasets with interactive visualizations, including correlation matrices and pair plots.
